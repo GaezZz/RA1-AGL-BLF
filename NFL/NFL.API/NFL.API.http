@@ -1,0 +1,6 @@
+@NFL.API_HostAddress = http://localhost:5143
+
+GET {{NFL.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
