@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "NFL.API\\NFL.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "NFL.consola\\NFL.consola.csproj",
+        "Action": "Start",
+        "DebugTarget": "NFL.consola"
+      }
+    ]
+  }
+]
